@@ -93,6 +93,11 @@ class Waveform
 		return $this->channels;
 	}
 
+	public function setChannels($channel)
+    {
+        $this->channels = $channel;
+    }
+
 	public function getSamples()
 	{
 		if (!$this->samples) {

@@ -1,5 +1,5 @@
 {
-	"name": "maximal/audio-waveform",
+	"name": "m-0x4d/audio-waveform",
 	"type": "library",
 	"description": "Audio waveform generator on PHP with SoX",
 	"keywords": ["audio", "waveform", "generator", "sox"],

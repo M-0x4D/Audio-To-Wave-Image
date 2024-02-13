@@ -14,7 +14,7 @@
  * @copyright © MaximAL, Sijeko 2016-2019
  */
 
-namespace maximal\audio;
+namespace mohamed_adel\audio;
 
 /**
  * Waveform class allows you to get waveform data and images from audio files

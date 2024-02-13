@@ -1,13 +1,13 @@
 {
-	"name": "m-0x4d/audio-waveform",
+	"name": "mohamed-adel/audio-waveform",
 	"type": "library",
 	"description": "Audio waveform generator on PHP with SoX",
 	"keywords": ["audio", "waveform", "generator", "sox"],
-	"homepage": "https://github.com/maximal/audio-waveform-php#readme",
+	"homepage": "https://github.com/M-0x4D/Audio-To-Wave-Image#readme",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "m-0x4d",
+			"name": "mohamed-adel",
 			"homepage": "http://maximals.ru",
 			"role": "Author"
 		}
@@ -22,7 +22,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"maximal\\audio\\": ""
+			"mohamed_adel\\audio\\": ""
 		}
 	}
 }

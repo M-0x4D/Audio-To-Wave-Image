@@ -20,7 +20,7 @@
  * @copyright © MaximAL, Sijeko 2016
  */
 
-namespace maximal\audio;
+namespace mohamed_adel\audio;
 
 require_once __DIR__ . '/Waveform.php';
 
